@@ -1,1 +1,1 @@
-# 2023S-Ajou-ML
+# Study_ML_Ajou
