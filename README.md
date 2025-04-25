@@ -1,1 +1,2 @@
-# Study_ML_Ajou
+## Study_AJOU
+### Study_ML
